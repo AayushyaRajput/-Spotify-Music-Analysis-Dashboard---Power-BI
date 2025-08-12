@@ -1,4 +1,5 @@
 # -Spotify-Music-Analysis-Dashboard---Power-BI
+
 ## 📌 Project Overview This project is an **interactive Spotify Music Analysis Dashboard** built in **Power BI**, providing a detailed view of streaming patterns, track performance, and artist popularity.   The dashboard allows users to filter by **date range** and **specific tracks**, giving a personalized insight into listening behavior.
 
 ## 🎯 Objectives
@@ -38,7 +39,7 @@
 - **Spotify Data Export** – Dataset source.
 
 ## 📷 Dashboard Preview
-![Spotify Music Analysis](Spotify%20analysis.png)
+![Spotify Music Analysis](https://github.com/AayushyaRajput/-Spotify-Music-Analysis-Dashboard---Power-BI/blob/a90650ae43852560bb519b3c4935f6f12f9c0964/Spotify%20analysis.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
